@@ -24,11 +24,22 @@ I combine operational experience with Excel, VBA, SQL, and data analysis to impr
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-Automation-5B2C6F)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-336791?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=000000)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?logo=tableau&logoColor=white)
+
 ![Microsoft 365](https://img.shields.io/badge/Microsoft-365-D83B01?logo=microsoft&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google-Workspace-4285F4?logo=google&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-Collaboration-4A154B?logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-Workspace-000000?logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?logo=canva&logoColor=white)
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI%20Productivity-10A37F?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AI%20Assistant-D97757)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-AI%20Assistant-0078D4?logo=microsoft&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-AI%20Assistant-4285F4?logo=google&logoColor=white)
+
 ![Data Analytics](https://img.shields.io/badge/Data-Analytics-1F6FEB)
-![PivotTables](https://img.shields.io/badge/Excel-PivotTables-217346)
-![Dashboards](https://img.shields.io/badge/Business-Dashboards-0A66C2)
+![Dashboard Design](https://img.shields.io/badge/Dashboard-Design-0F6CBD)
 
 ---
 
@@ -76,6 +87,11 @@ I combine operational experience with Excel, VBA, SQL, and data analysis to impr
 
 Interactive Excel dashboard designed to monitor corporate travel spend, budget compliance, preferred vendor usage, and policy exceptions.
 
+
+### Dashboard Preview
+
+![Executive Travel & Expense Dashboard](./dashboard-travel-expenses.png)
+
 ### Business Results
 
 - 160 corporate travel records analyzed
@@ -103,13 +119,18 @@ Interactive Excel dashboard designed to monitor corporate travel spend, budget c
 - Highlight Policy Exceptions
 - Automated exception counting
 
-### Dashboard Preview
-
-<img src="./Dashboard%20travel%20expenses.png" alt="Executive Travel & Expense Dashboard" width="100%">
 
 ### Tools Used
 
-Excel | PivotTables | PivotCharts | Slicers | VBA | Business Analysis | Executive Reporting
+### Tools Used
+
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel&logoColor=white)
+![PivotTables](https://img.shields.io/badge/PivotTables-Analysis-1D6F42)
+![PivotCharts](https://img.shields.io/badge/PivotCharts-Visualization-2F855A)
+![Slicers](https://img.shields.io/badge/Slicers-Interactive%20Filtering-2563EB)
+![VBA](https://img.shields.io/badge/VBA-Automation-7C3AED)
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Strategy-475569)
+![Executive Reporting](https://img.shields.io/badge/Executive%20Reporting-Insights-0369A1)
 
 ---
 
